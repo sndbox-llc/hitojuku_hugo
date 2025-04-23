@@ -1,9 +1,10 @@
 # Site Params
 
 # Open Graph, Twitter Cards and schema.org Thing and Article (in posts)
-description = "栃木県宇都宮市にあるヘアサロン RYUの公式サイトです。カット・パーマ・カラーなどのメニューや、サロンの雰囲気をお伝えします。"
-keywords = ["RYU", "宇都宮", "ヘアサロン", "美容室", "カット", "パーマ", "カラー"]
-images = ['images/site-feature-image.png']
+description = "「ひと塾＋」は、文学作品や論語の読解を通して、“ことばの力”を育む小さな学び舎です。幼児から大人まで、読解力・表現力・創造力を養い、自分の言葉で生きる力を育てます。"
+keywords = ["国語", "読解力", "論語", "教育", "塾", "小学生", "中学生", "高校生", "幼児教育", "社会人学習", "栃木", "宇都宮", "表現力", "創造力", "自己表現", "小論文指導", "ひと塾", "読書指導", "国語力"]
+
+images = ['hitojuku.png']
 # mainMenuLogo = "images/logo.svg"
 
 # For favicons
@@ -17,8 +18,8 @@ alertText = "Introducing this new service! <a class=\"alert-link stretched-link\
 
 # Pre-footer
 footerAbout = true
-footerAboutTitle = "美容室RYU"
-footerAboutText = "栃木県宇都宮市の美容室RYUです。カット・パーマ・カラーなどのメニューや、サロンの雰囲気をお伝えします。"
+footerAboutTitle = "ひと塾＋"
+footerAboutText = "「ひと塾＋」は、文学作品や論語の読解を通して、“ことばの力”を育む小さな学び舎です。幼児から大人まで、読解力・表現力・創造力を養い、自分の言葉で生きる力を育てます。"
 
 [options]
   bootStrapJs = true
