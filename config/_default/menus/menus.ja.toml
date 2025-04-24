@@ -3,26 +3,9 @@ name = "ホーム"
 url = ""
 weight = 10
 
-# [[main]]
-# name = "メニュー"
-# url = "menu"
-# weight = 200
-# title = "menu"
 
 [[main]]
 name = "最新情報"
 identifier = "blog"
 url = "post"
 weight = 40
-
-# [[main]]
-# name = "All"
-# url = "post"
-# weight = 100
-# parent = "blog"
-
-# [[main]]
-# identifier = "docs"
-# name = "Docs"
-# url = "page"
-# weight = 50
