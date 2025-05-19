@@ -1,7 +1,13 @@
 {{ define "main" }}
 
 <div class="container py-3">
-  {{ .Content }}
+  <div class=" my-5">
+    <div class="card  rounded shadow-sm p-4" >
+      <h2 class="fw-bold border-bottom pb-2 mb-4" style="color: #333;">{{ .Title }}</h2>
+      <p class="text-end fw-bold mb-4" style="color: #333;">{{ .Date.Format "2006.01.02" }}</p>
+      <div class="fs-5 lh-lg mainContents">{{ .Content }}</div>
+    </div>
+  </div>
 </div>
 
 {{ end }}

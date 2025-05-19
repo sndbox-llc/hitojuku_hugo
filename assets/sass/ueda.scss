@@ -2,3 +2,18 @@
 img {
     max-width: 100%;
 }
+
+
+ul li {
+  line-height: 2.2;
+}
+
+.card.notebook-style {
+  background: repeating-linear-gradient(
+    to bottom,
+    #ffffff,
+    #ffffff 34px,
+    #e9ecef 35px
+  );
+  border: 1px solid #dee2e6;
+}
