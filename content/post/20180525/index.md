@@ -2,7 +2,6 @@
 title: "新規塾生募集中"
 description: ""
 date: 2018-07-16T13:00:00
-draft: false
 ---
 
 卒業生（京都大学卒）より  
